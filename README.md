@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello 👋 I'm Nex! <a><img align="right" width="450px" src="https://github.com/razod/razod/blob/main/octocat.png"></a> 
 
-<!--
-**razod/razod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I use to code
+:computer: I use NodeJS, Java, TypeScript, & other frontend languages
 
-Here are some ideas to get you started:
+:hammer_and_wrench: Git, Visual Studio Code, IntelliJ, & Discord
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+- :heavy_check_mark: develop minecraft plugins
+- :heavy_check_mark: create fun side projects
+- :heavy_check_mark: get bored of fun side projects
+- :heavy_check_mark: contribute to open source
+
+:globe_with_meridians: You can reach me on Discord, @nexh#5183
+
+<br />
+<br />
+<br />
+<br />
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=razod)]
