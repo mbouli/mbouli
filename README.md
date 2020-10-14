@@ -18,4 +18,4 @@
 <br />
 <br />
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=razod)]
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=razod)
