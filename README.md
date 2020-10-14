@@ -1,7 +1,7 @@
 ## Hello 👋 I'm Nex! <a><img align="right" width="450px" src="https://github.com/razod/razod/blob/main/octocat.png"></a> 
 
 ### What I use to code
-:computer: I use NodeJS, Java, TypeScript, & other frontend languages
+:computer: I use NodeJS, Java, TypeScript, & other languages
 
 :hammer_and_wrench: Git, Visual Studio Code, IntelliJ, & Discord
 
