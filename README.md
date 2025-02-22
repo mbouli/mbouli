@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Mason!</h1>
-<p align="center">⚠️ work in progress! </p>
+<h1 align="left">Hello, I'm Mason!</h1>
+<p align="left">⚠️ work in progress! </p>
 
 ### Tools
 <p align="left"> 
