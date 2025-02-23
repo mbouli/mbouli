@@ -1,5 +1,5 @@
 <h1 align="left">Hello, I'm Mason!</h1>
-<p align="left">⚠️ work in progress! </p>
+<p align="left">⭐️ Student, developer, and photographer.</p>
 
 ### Tools
 <p align="left"> 
