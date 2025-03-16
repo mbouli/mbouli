@@ -12,7 +12,7 @@
  </p>
 
 ### Projects
-- 🍦 **[Creamiverse](https://creamiverse.vercel.app)** (*Work in progress*) A community-driven platform for sharing and discovering Ninja Creami recipes with Google Oauth2. Creamiverse was created using <ins>React, Next, Tailwind, and Sanity</ins>. It utilizes Sanity for backend, Sanity's Live Content API, and Next's Partial Prerendering.
+- 🍦 **[Creamiverse](https://creamiverse.vercel.app)** (*[Work in progress](https://github.com/mbouli/creamiverse)*) A community-driven platform for sharing and discovering Ninja Creami recipes with Google Oauth2. Creamiverse was created using <ins>React, Next, Tailwind, and Sanity</ins>. It utilizes Sanity for backend, Sanity's Live Content API, and Next's Partial Prerendering.
 
 ### Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razod&show_icons=true&theme=tokyonight&locale=en&layout=compact"> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbouli&show_icons=true&theme=tokyonight&locale=en&layout=compact"> </p>
