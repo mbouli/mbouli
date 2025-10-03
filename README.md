@@ -1,5 +1,13 @@
 <h1 align="left">Hello, I'm Mason!</h1>
-<p align="left">⭐️ Student, developer, and photographer.</p>
+
+```python
+class Mason:
+  def _init_(self):
+    self.age = 18
+    self.hobbies = ["Programming", "Learning", "Photography"]
+    self.year = "Freshman"
+    self.school = "Auburn University"
+```
 
 ### Tools
 <p align="left"> 
