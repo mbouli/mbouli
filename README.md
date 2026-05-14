@@ -1,25 +1,11 @@
-<h1 align="left">Hello, I'm Mason!</h1>
+<div align="center">
+<img src="./src/img/logo.png" alt="Mason Boulier" />
+</div>
 
-```python
-class Mason:
-  def _init_(self):
-    self.age = 19
-    self.hobbies = ["Programming", "Learning", "Photography"]
-    self.year = "Freshman"
-    self.school = "Auburn University"
-```
+<br />
 
-### Tools
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" />
- </p>
+## about me
 
-<!-- ### Projects
-- 🍦 **[Creamiverse](https://creamiverse.vercel.app)** (*[Work in progress](https://github.com/mbouli/creamiverse)*) A community-driven platform for sharing and discovering Ninja Creami recipes with Google Oauth2. Creamiverse was created using <ins>React, Next, Tailwind, and Sanity</ins>. It utilizes Sanity for backend, Sanity's Live Content API, and Next's Partial Prerendering. -->
+💻 studying computer science @ auburn university
 
-<!-- ### Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mbouli&show_icons=true&theme=tokyonight&locale=en&layout=compact"> </p> -->
+
