@@ -8,4 +8,7 @@
 
 💻 studying computer science @ auburn university
 
+## projects
+
+**📆 [calenti](https://calenti.xyz)** - a minimal calendar + note taking web app for students
 
