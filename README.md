@@ -1,6 +1,5 @@
 <div align="center">
 <img src="./src/img/logo.png" alt="Mason Boulier" />
-  <a href="https://github.com/mbouli/deskfish"><img src="https://github.com/mbouli/deskfish/blob/main/docs/images/timelapse.gif" width="23%" /></a>
 </div>
 
 <br />
@@ -20,3 +19,7 @@
 **🎛️ [onemix](https://github.com/mbouli/onemix)** - a menu bar app that gives you per-app audio control on mac. 
 
 **🐠 [deskfish](https://github.com/mbouli/deskfish)** - lively digital fish that live in an esp32-S3 on your desk
+
+<div align="left">
+  <a href="https://github.com/mbouli/deskfish"><img src="https://github.com/mbouli/mbouli/blob/main/src/img/timelapse.gif" width="23%" /></a>
+</div>
