@@ -7,9 +7,13 @@
 
 ## about me
 
-💻 studying computer science @ auburn university
+💻 studying **computer science** @ <mark>auburn university</mark>
+
+✈️ incoming summer 2027 **digital & technology intern** @ <mark>delta air lines</mark>
 
 ## projects
+
+**📔 [mindfuul](https://mindfuul.com)** - (coming soon) a guided journaling ios app that gets you off of your phone at night and in the morning.
 
 **📆 [calent](https://calent.xyz)** - a minimal calendar + note taking web app for students
 
